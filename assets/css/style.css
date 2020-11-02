@@ -1,0 +1,20 @@
+.hover-kategori:hover{
+
+	background-color: #e8e8e8;
+	border-radius: 5px;
+
+}
+
+.artikel-hover:hover{
+
+	background-color: #e8e8e8 !important
+
+}
+
+.isi_komentar{
+
+	background: whitesmoke;
+	padding: 10px;
+	border-radius: 5px;
+
+}
